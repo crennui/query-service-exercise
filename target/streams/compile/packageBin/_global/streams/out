@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/crennui/code/scala/query-service-exercise/target/scala-2.13/query-service-exercise_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/CsvFileResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/io/CsvFileResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/PostgreSQLHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/io/PostgreSQLHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/RequestHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/io/RequestHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/QueryToFileRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/service/QueryToFileRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/service/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/QueryRequestJsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/service/QueryRequestJsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/service/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/QueryToFileRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/service/QueryToFileRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/QueryService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/crennui/code/scala/query-service-exercise/target/scala-2.13/classes/service/QueryService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
