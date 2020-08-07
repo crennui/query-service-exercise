@@ -1,0 +1,4 @@
+In this folder the zip with the csv results will be saved. 
+because docker runs on root, the end file will appear read-only. 
+if you run the project not from a container then the files will appear 
+to you not read-only (I am running ubuntu..)
